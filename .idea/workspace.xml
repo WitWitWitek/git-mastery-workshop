@@ -18,9 +18,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/squash-commits/squash-me.js" root0="FORCE_HIGHLIGHTING" />
   </component>
+
   <component name="ProjectId" id="2R26xgFePqTN1WDOS3VPw70m89J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,7 +53,9 @@
       <updated>1686436078288</updated>
       <workItem from="1686436080436" duration="1887000" />
       <workItem from="1686443115148" duration="146000" />
+
       <workItem from="1686443269459" duration="2248000" />
+
     </task>
     <servers />
   </component>
